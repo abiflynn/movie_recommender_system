@@ -17,9 +17,15 @@ Ursula has shared her store database with me and working as a freelance Data Sci
 ### 1.2. Technical Skills 
 
 - Python: Pandas 
-- 
+- Correlation: Pearson’s Correlation and Cosine Similarity
+- scikit-learn
 
 ## 2. Project Outcome 
+
+Three recommenders (highlighte in red) and a chatbot. 
+
+<img width="823" alt="Screenshot 2023-04-21 at 11 50 01" src="https://user-images.githubusercontent.com/120720780/233618162-0a584412-4bd7-4f9d-bd9f-a9d419205b39.png">
+
 
 ### 2.1. Popularity Ranking 
 
